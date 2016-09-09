@@ -4,12 +4,7 @@
   <artifactId>quartz-ttt</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <repositories>
-		<repository>
-			<id>releases</id>
-			<name>Releases</name>
-			<url>http://10.254.177.92:8081/nexus/content/repositories/releases</url>
-		</repository>
-		<repository>
+	<repository>
 			<id>releases-phx</id>
 			<name>Releases</name>
 			<url>http://phxaisepapp018.phx.ebay.com:8080/nexus/content/repositories/releases</url>
