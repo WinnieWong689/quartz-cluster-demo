@@ -3,13 +3,6 @@
   <groupId>com.ebay.traffic</groupId>
   <artifactId>quartz-ttt</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <repositories>
-	<repository>
-			<id>releases-phx</id>
-			<name>Releases</name>
-			<url>http://phxaisepapp018.phx.ebay.com:8080/nexus/content/repositories/releases</url>
-		</repository>
-	</repositories>
   <dependencies>
   		<dependency>
 			<groupId>org.quartz-scheduler</groupId>
